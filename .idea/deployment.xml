@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ccuresearch">
+    <serverData>
+      <paths name="ccuresearch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="CSCI495-C2" local="$PROJECT_DIR$" web="/CSCI495-C2" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
